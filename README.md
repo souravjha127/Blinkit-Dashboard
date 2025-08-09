@@ -31,15 +31,11 @@ Blinkit needed a centralized dashboard to:
 - Support dynamic filtering for in-depth exploration.
 
 3) Walkthrough of Key Visuals
-   ** Fat Content Sales Breakdown ** – Donut chart comparing sales from Low Fat vs. Regular products, with KPI cards for                                             revenue.
-   
-   ** Sales by Outlet Tier (Fat by Outlet) ** – Clustered bar chart showing fat content sales across Tier 1, Tier 2, and Tier                                                 3 outlets.
-   
-   ** Top Product Categories ** – Ranked bar chart displaying best and worst-performing item categories.
-   
-   ** Outlet Size Contribution ** – Donut chart revealing sales share from Small, Medium, and Large outlets.
-   
-   ** Outlet Type Summary Table ** – Table with total items sold, total sales, and average sales per outlet type.
+- Fat Content Sales Breakdown – Donut chart comparing sales from Low Fat vs. Regular products, with KPI cards for                                             revenue.
+- Sales by Outlet Tier (Fat by Outlet) – Clustered bar chart showing fat content sales across Tier 1, Tier 2, and Tier                                                 3 outlets.
+- Top Product Categories – Ranked bar chart displaying best and worst-performing item categories.
+- Outlet Size Contribution – Donut chart revealing sales share from Small, Medium, and Large outlets.
+- Outlet Type Summary Table – Table with total items sold, total sales, and average sales per outlet type.
 
 5) Business Impact & Insights
 - Tier 3 outlets generate the highest revenue, suggesting untapped growth opportunities in certain regions.
