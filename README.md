@@ -1,21 +1,21 @@
-## Blinkit-Dashboard
+# Blinkit-Dashboard
 The Blinkit Sales & Outlet Performance Dashboard is an interactive Power BI solution designed to provide actionable insights into sales, outlet performance, product category contributions, and customer buying patterns.
 It empowers stakeholders to make data-driven decisions by analyzing key performance metrics and trends.
 
-# Tech Stack
+## Tech Stack
 Power BI Desktop – Data modeling, DAX calculations, and interactive visuals
 Microsoft Excel – Data cleaning and preprocessing
 DAX (Data Analysis Expressions) – Custom KPIs and calculated measures
 Power Query – Data transformation
 
-# Data Source
+## Data Source
 - Blinkit Sales Dataset (CSV/Excel) containing:
         Product details (category, fat content, price)
         Outlet details (type, tier, size, location)
         Transactional sales data
 - Data imported into Power BI and processed with Power Query.
 
-# Features & Highlights
+## Features & Highlights
 
 1) Business Problem
 Blinkit needed a centralized dashboard to:
@@ -50,5 +50,5 @@ Blinkit needed a centralized dashboard to:
 -Targeted outlet expansion
 -Increased profitability through data-backed actions
 
-# Dashboard Preview
+## Dashboard Preview
 ![Dashboard Preview](https://github.com/souravjha127/Blinkit-Dashboard/blob/main/Dashboard.png)
