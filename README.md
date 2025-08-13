@@ -51,5 +51,5 @@ Blinkit needed a centralized dashboard to:
 -Increased profitability through data-backed actions
 
 ## Dashboard Preview
-![Dashboard Preview](https://github.com/souravjha127/Blinkit-Dashboard/blob/main/Blinkit_Dashboard.pbix)
+![Dashboard Preview](https://github.com/souravjha127/Blinkit-Dashboard/blob/main/Dashboard.png)
 
